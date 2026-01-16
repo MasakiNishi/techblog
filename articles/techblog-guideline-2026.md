@@ -4,6 +4,7 @@ emoji: "📝"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [organization]
 published: true
+publication_name: auder
 ---
 
 ## はじめに
